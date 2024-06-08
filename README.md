@@ -1,18 +1,17 @@
-### openvpn-install.sh
+## Scripts
+**openvpn-install.sh**
 
 The `openvpn-install.sh` script is used to install or remove OpenVPN on the server. It provides an easy way to set up OpenVPN on your server or remove it if necessary.
 
-### manage.sh
+**manage.sh**
 
 The `manage.sh` script is a helper script that allows you to manage OpenVPN users. It provides options to create, revoke, or check the status of users.
 
-### create-zip.sh
+**create-zip.sh**
 
 The `create-zip.sh` script creates a ZIP file containing the client credentials and information, including the user's password, private key password, and a QR code for 2FA.
 
 ## Template File
-
-### openvpn.pam.template
 
 The `openvpn.pam.template` file is a template for configuring PAM (Pluggable Authentication Module) for OpenVPN. It can be customized according to your OpenVPN setup requirements.
 
