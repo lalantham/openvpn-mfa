@@ -1,7 +1,3 @@
-# OpenVPN with 2FA using Google Authenticator
-
-This repository contains scripts and a template file to set up and manage **OpenVPN** with **two-factor authentication (2FA)** using **Google Authenticator**. The project includes various shell scripts to install OpenVPN, manage users, and create ZIP files with necessary credentials.
-
 ### openvpn-install.sh
 
 The `openvpn-install.sh` script is used to install or remove OpenVPN on the server. It provides an easy way to set up OpenVPN on your server or remove it if necessary.
