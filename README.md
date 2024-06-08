@@ -45,3 +45,10 @@ Generate ZIP file Contains Passwords, Barcode
 ```
 sudo ./create-zip.sh
 ```
+**Credit**
+
+[openvpn_2fa](https://github.com/perfecto25/openvpn_2fa)
+
+[openvpn-install](https://github.com/angristan/openvpn-install)
+
+[OpenVPN-2FA-GoogleAuth](https://github.com/zaheerahmad33/OpenVPN-2FA-GoogleAuth)
