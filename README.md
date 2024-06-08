@@ -18,6 +18,7 @@ The `openvpn.pam.template` file is a template for configuring PAM (Pluggable Aut
 
 ## Usage
 **Install OpenVPN**
+
 Install OpenVPN Using `openvpn-install.sh` script
 
 Install Following Packages
