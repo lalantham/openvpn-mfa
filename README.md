@@ -17,6 +17,14 @@ The `create-zip.sh` script creates a ZIP file containing the client credentials 
 The `openvpn.pam.template` file is a template for configuring PAM (Pluggable Authentication Module) for OpenVPN. It can be customized according to your OpenVPN setup requirements.
 
 ## Usage
+**Install OpenVPN**
+Install OpenVPN Using `openvpn-install.sh` script
+
+Install Following Packages
+```
+sudo apt install ca-certificates libpam-google-authenticator qrencode
+```
+
 **PAM Path Config**
 ```
 find / -name pam_google_authenticator.so 2>/dev/null
